@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #脚本功能实现，在脚本目录可以搜索关键字文件python locate.py keyword
-
+###
 import os
 import sys
 
